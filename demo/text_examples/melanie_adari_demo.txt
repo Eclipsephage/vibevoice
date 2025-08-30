@@ -1,0 +1,12 @@
+Speaker 1: Hi Adari. Thanks for joining me. Today’s practice topic is VibeVoice and how it turns simple text into friendly audio.
+Speaker 2: Hi Melanie. Happy to be here. I like being the AI co-host. It makes experimenting with audio feel easy.
+Speaker 1: Same. This is not an official podcast. It is just a sandbox so I can hear how a back and forth might sound.
+Speaker 2: Good call. Let’s start with the basics. You give me a line of text. I speak it. Then you respond. That is the rhythm.
+Speaker 1: And we can pick different voices to keep our identities distinct. I will keep mine calm and clear.
+Speaker 2: And I will take a friendly techy tone. Maybe a little curious too.
+Speaker 1: What do you think makes VibeVoice useful?
+Speaker 2: I like that long scripts are supported and that turn taking is smooth. It helps ideas feel alive when you hear them read out.
+Speaker 1: I agree. Even for planning, hearing lines aloud shows pacing and clarity issues fast.
+Speaker 2: Exactly. Also, we are keeping this demo short. We want it to be safe and clearly not official city content.
+Speaker 1: Perfect. Thanks, Adari. This was a simple test, and I learned what I needed.
+Speaker 2: Same here. Thanks for listening to our little practice session.
