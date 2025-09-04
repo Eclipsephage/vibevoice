@@ -1,2 +1,1 @@
-[# vibevoice
-Testing Microsoft VibeVoice](https://microsoft.github.io/VibeVoice/)
+https://microsoft.github.io/VibeVoice/
